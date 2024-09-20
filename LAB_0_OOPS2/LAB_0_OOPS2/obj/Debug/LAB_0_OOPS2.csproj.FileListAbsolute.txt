@@ -1,0 +1,7 @@
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\bin\Debug\LAB_0_OOPS2.exe.config
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\bin\Debug\LAB_0_OOPS2.exe
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\bin\Debug\LAB_0_OOPS2.pdb
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\obj\Debug\LAB_0_OOPS2.csproj.AssemblyReference.cache
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\obj\Debug\LAB_0_OOPS2.csproj.CoreCompileInputs.cache
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\obj\Debug\LAB_0_OOPS2.exe
+C:\Users\Virka\source\repos\LAB_0_OOPS2\LAB_0_OOPS2\obj\Debug\LAB_0_OOPS2.pdb
